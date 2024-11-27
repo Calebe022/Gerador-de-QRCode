@@ -10,12 +10,12 @@ body {
     align-items: center;
     justify-content: center;
     min-height: 100vh;
-    background-color: #26ac5e;
+    background-color: #7cf0f0;
 }
 
 /* Container */
 .container {
-    background-color: #fff;
+    background-color: #26ac5e;
     height: 300px;
     width: 470px;
     border-radius: 10px;
@@ -33,13 +33,13 @@ body {
 }
 
 #qr-header h1 {
-    color: #ff8c00;
+    color: #000000;
     font-size: 1rem;
     margin-bottom: 10px;
 }
 
 #qr-header p {
-    color: #444;
+    color: #fff;
     font-size: 0.9rem;
 }
 
